@@ -1,0 +1,65 @@
+{
+    "SettingMenu": {
+        "darkMode": "Dark Mode",
+        "lightMode": "Light Mode"
+    },
+    "CommonString": {
+        "weekDays": "Mon,Tue,Wen,Thu,Fri,Sat,Sun"
+    },
+    "JobPortalPageString": {
+        "ViewFilterWidgetString": {
+            "viewFilterLabel": "View",
+            "viewFilterList": "Card,List"
+        },
+        "JobFilterPanelString": {
+            "sortFilterLabel": "Sort",
+            "sortFilterList": "Date,Relevance",
+            "saleryFilterLabel": "Salary",
+            "hourlyFilterLabel": "Hourly",
+            "distanceFilterLabel": "Distance  (Within)",
+            "distanceUnit": "mi",
+            "jobTypeFilterLabel": "Job Type",
+            "jobTypeFilterList": "Full-time,Part-time,Contract,Temp,Intern",
+            "experienceFilterLabel": "Experiences",
+            "experienceFilterList": "Entry level,Mid level,Senior level"
+        },
+        "FilterButtonGroupString": {
+            "saveFilterButtonLabel": "SAVE FILTER",
+            "clearFilterButtonLabel": "CLEAR FILTER"
+        },
+        "JobPanelButtonGroupString": {
+            "applyButtonLabel": "APPLY",
+            "saveButtonLabel": "SAVE JOB",
+            "detailsButtonLabel": "DETAILS"
+        },
+        "JobDetailsPanelString": {
+            "title": "JOB DETAILS",
+            "otherMatches": "Other Matches",
+            "shareLabel": "SHARE",
+            "roleOverViewLabel": "Role Overview",
+            "responsibilitiesLabel": "Responsibilities",
+            "backToTopabel": "BACK TO TOP"
+        },
+        "PipelinePanelString": {
+            "savedLabel": "SAVED",
+            "appliedLabel": "APPLIED",
+            "interviewLabel": "INTERVIEW",
+            "hiredLabel": "HIRED"
+        },
+        "section1": "______ TitleBarComponent ______",
+        "titleBarTitle": "JOB PORTAL",
+        "titleBarButton1Text": "Resource Hub",
+        "titleBarButton2Text": "Knowledge Base",
+        "section2": "______ SearchComponent ______",
+        "searchbarJobTitleHint": "Search Job Title or Keyword",
+        "searchbarAddressHint": "City, State/Territory, Zip",
+        "searchBarJobLabel": "SEARCH",
+        "searchBarAddressLabel": "Job Title",
+        "searchbarSearchButton": "Address",
+        "section3": "______ TabString ______",
+        "tabStringList": "JOBS,JOB BOARD,VIEWED JOB,PROFILE"
+    },
+    "CandidateJobWidgetString": {
+        "otherApplicantsLabel": "Other Applicants"
+    }
+}

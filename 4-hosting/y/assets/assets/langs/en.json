@@ -1,0 +1,43 @@
+{
+    "SettingMenu": {
+        "darkMode": "Dark Mode",
+        "lightMode": "Light Mode"
+    },
+    "CommonString": {
+        "weekDays": "Mon,Tue,Wen,Thu,Fri,Sat,Sun"
+    },
+    "JobPortalPageString": {
+        "section1": "______ TitleBarComponent ______",
+        "titleBarTitle": "JOB PORTAL",
+        "titleBarButton1Text": "Resource Hub",
+        "titleBarButton2Text": "Knowledge Base",
+        "section2": "______ SearchComponent ______",
+        "searchbarJobTitleHint": "Search Job Title or Keyword",
+        "searchbarAddressHint": "City, State/Territory, Zip",
+        "searchBarJobLabel": "SEARCH",
+        "searchBarAddressLabel": "Job Title",
+        "searchbarSearchButton": "Address",
+        "section3": "______ TabString ______",
+        "tabStringList": "JOBS,JOB BOARD,VIEWED JOB,PROFILE",
+        "section4": "______ TabString ______",
+        "viewFilterLabel": "View",
+        "viewFilterList": "Card,List",
+        "sortFilterLabel": "Sort",
+        "sortFilterList": "Date,Relevance",
+        "saleryFilterLabel": "Salary",
+        "hourlyFilterLabel": "Hourly",
+        "distanceFilterLabel": "Distance  (Within)",
+        "distanceUnit": "mi",
+        "jobTypeFilterLabel": "Job Type",
+        "jobTypeFilterList": "Full-time,Part-time,Contract,Temp,Intern",
+        "experienceFilterLabel": "Experiences",
+        "experienceFilterList": "Entry level,Mid level,Senior level",
+        "saveFilterButtonLabel": "SAVE FILTER",
+        "clearFilterButtonLabel": "CLEAR FILTER"
+    },
+    "CandidateJobWidgetString": {
+        "detailsButton": "DETAILS",
+        "saveButton": "SAVE JOB",
+        "otherApplicantsLabel": "Other Applicants"
+    }
+}
